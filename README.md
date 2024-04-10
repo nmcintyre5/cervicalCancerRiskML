@@ -3,7 +3,7 @@
 
 ## Overview
 
-Cervical cancer poses a significant health risk to women's health, claiming thousands of lives annually both in the United States and globally. This script creates a Machine Learning model, utilizing an XGBoost classifier, used to predict the likelihood of an individual developing cervical cancer. The script asks the user for their age, smoking status, age of first sexual intercourse, number of pregancies, and IUD status and then predicts their risk of cervical cancer using the model.
+Cervical cancer poses a significant health risk to women's health, claiming thousands of lives annually both in the United States and globally. This script creates a Machine Learning model, utilizing an XGBoost classifier, used to predict the likelihood of an individual developing cervical cancer. The script asks the user for their age, smoking status, age of first sexual intercourse, number of pregancies, and IUD status and then predicts their risk of cervical cancer using the model, using the median for all other features.
 
 ## Key Features
 
